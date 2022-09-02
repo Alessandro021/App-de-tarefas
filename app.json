@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "app-de-tarefas",
+    "slug": "app-de-tarefas",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
